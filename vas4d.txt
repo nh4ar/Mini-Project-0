@@ -1,0 +1,3 @@
+Victor Leal Sobral,vas4d
+I have worked more recently with STM32F407VG (ARM M4) for a medical device development. I also have some experience with MSP430F2274 and other low cost microcontrollers from classes and research projects. About programming languages, I've used mostly C, but I've already worked with assembler too. 
+On this class I intend to learn more about RTOS and develop my skills on embedded systems design.
