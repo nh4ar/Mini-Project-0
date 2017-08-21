@@ -1,0 +1,11 @@
+Kyle Dalton (ksd3vg)
+
+Most of my embedded background comes from working with the MSP430 in Intro to
+Embedded, but I've spent some time trouble-shooting systems that rely
+heavily on embedded computing through my internship with
+the Department of the Navy. For embedded applications, I've only programmed in C,
+but for other classes/projects I've worked a lot in Java, C++, and Python.
+
+I hope to build upon what I learned in ECE 3430 (Intro) as we work on more
+complex applications, and potentially apply elements of this class towards my
+interests in renewable energy and amateur radio.
