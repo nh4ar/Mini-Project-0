@@ -1,0 +1,11 @@
+Matthew Thornton - mpt5nm
+
+Background:
+Academically, I have previously taken ECE 3430 Intro to Embedded Systems which began my interest in embedded systems. 
+As an intern, I have worked on a few embedded systems for mission-critical applications in defense industry technology.
+I currently have working knowledge of C, C++, x86, Java, and Python. I have experience working with MSP430s, Raspberry Pis, and FPGAs.
+
+Expectations:
+I have always been extremely interested in the intersection of hardware and software in electronics and how to interface with and control a variety of different systems.
+Additionally, I am interested in getting a more thorough understanding of embedded systems at the digital hardware level. 
+Beyond this, I am excited to learn how to apply more advanced embedded system knowledge in practical application as this will be highly applicable to my desired future career path.
