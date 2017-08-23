@@ -1,0 +1,5 @@
+Abu Hasnat Mohammad Rubaiyat (ar3fx)
+
+Background: During mu undergrad studies I did two microcontroller based (group) projects for the courses Microprocessor and Interfacing Laboratory, and Control System I Laboratory. First one is a protable digital oscilloscope using atmega16 microcontroller. And the next one is a robotic eye that could follow a red color object, where atmega8 was used to control servo motors and matlab was used to control the vision part.
+
+Interest: As I'm currently doing my researches in the field of cyber physical systems, I need to have some hands-on experiences of designing an embedded system. Memory size is usually very limited in embedded systems, so I want to explore some optimization techniques that can be applied in embedded software programming.
