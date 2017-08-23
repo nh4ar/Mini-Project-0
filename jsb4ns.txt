@@ -1,0 +1,3 @@
+Jacob Breiholz jsb4ns
+Background: I took introduction to embedded programming with professor Dugan in undergrad, which used the MSP430 and C.  I also have a lot of experience at the RTL level, as part of my research involves designing an ultra-low power (ULP) system on chip (SoC) for health monitoring and IoT based applications.
+Interests: So far, I've worked mainly on low power digital circuits for biomedical and IoT applications, more specifically low-overhead sensor data compression.  I'm expecting to deepen my knowledge of embedded programming and gain familiarity with ARM micro controllers.  I hope to be able to apply that knowledge to my own personal research. 
