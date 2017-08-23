@@ -1,0 +1,19 @@
+Name: John Park
+UVA ID: jjp5nw
+Background:
+	Previous relevant courses:
+		CS 2150 - Program and Data Representation
+		CS 4102 - Algorithms
+		CS 4630 - Defense Against the Dark Arts
+		ECE 2630, 2660 - FUN I and II
+		ECE 3430 - Intro to Embedded Systems
+		ECE 4435 - Computer Architecture and Design
+	Projects:
+		currently working on a Raspberry Pi bike computer project: https://github.com/johnjp15/pibike
+	Platforms:
+		TI MSP430 (from ECE 3430)
+		Raspberry Pi
+	Programming Languages:
+		Java, Python, C, C++, C#, Assembly (x86)
+Interests:
+	I'm interested in the Internet of Things (IoT) and the whole maker/DIY culture.  I'd love to put together a device that could monitor and control the internals of my room or mod my car with custom blind-spot detectors.  Over the summer, I was doing some research before starting on my bike computer project and came across real-time operating systems on the internet, which are still unfamiliar to me.  I read a bit and found out that it'd provide more accurate measurements of any time sensitive variables, but I still ended up settling for a simpler approach using the Raspberry Pi and languages I already knew.  I'm really looking forward to learning a lot more about embedded systems from this class because I'm hoping that it will broaden my grasp of different embedded systems areas and give me more to work with for my future projects.

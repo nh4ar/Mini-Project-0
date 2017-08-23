@@ -1,0 +1,12 @@
+Keziah Knopp
+kk6du
+I have taken Introduction to Embedded Computing Systems and am now a TA for it.
+I have also taken all the Fundamentals courses here, Programming Languages,
+Computer Networks, and Computer Architecture, among other less relevant
+engineering courses. Most of my work has been in C/C++ and Java, but I have also
+used VHDL, Javascript, Python, and Reason.
+
+I enjoyed the first embedded course I took, and this class looks like it has a
+lot of interesting topics.  I think IoT and CPS stuff is really cool, and I want
+to learn more about that. I hope this class gives me an understanding and
+knowledge of those topics and how to better program and debug embedded systems.
