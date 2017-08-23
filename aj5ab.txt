@@ -1,0 +1,11 @@
+Anand Jantzen aj5ab
+
+My background in embedded systems is basic undergraduate classes on using
+assembly and C to program PIC24 type chipsets. Also exposed to VHDL and
+hardware description languages. Senior year I focused on solid state systems.
+
+I just finished serving 5 years as an officer in the Navy. I was responsible for
+various weapons, radar, and computer systems in the Navy -- so my interests are
+in defense applications for new and emerging technologies in ECE. Personally I
+enjoy traveling, just came back from Hong Kong, Taiwan, Thailand, and Mongolia.
+I want to learn how to cook and dance better, maybe at the same time.
