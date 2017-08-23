@@ -1,0 +1,3 @@
+Henry Bishop hlb9ce
+I have done numerous embedded systems projects and have TA'ed for the intro embedded course twice. I also did an independent study using the TI RTOS and MSP432. This is all mainly written in C. My experience with programming includes the basic CS1110, CS2110, and embedded courses, C, C++, and scripting dev from my internships, and work with the Linux command line.
+Hi everyone! I am currently a PhD student in the RLP-VLSI group headed by Professor Calhoun. We work on ultra low power VLSI system design. I am hoping to learn more about embedded development and embedded architectures to help me in my research.
