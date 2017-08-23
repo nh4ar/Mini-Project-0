@@ -1,0 +1,6 @@
+Noah Rohrlich  |  nkr2vr
+
+I've been a TA for ECE3430 (Intro to embedded) for 3 semesters, and spent this past summer working with the ECE department on new course materials. I've worked on motor control systems, DSP, and basic I/O with the MSP430 and 432. I've used C, and only C for these applications, but may supplement that with Python.
+
+I'd like to become more competent at handling complex control systems, and becoming more comfortable with git, while also building a portfolio. I also look forward to learning how to more effectively read and understand graduate publications and papers.
+
