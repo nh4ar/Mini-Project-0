@@ -1,0 +1,6 @@
+Name  : Varundev Sukhil
+UVa ID: vss8sm@virginia.edu
+
+I have used embedded systems for all my undergraduate and graduate projects so far including Arduino, Raspberry Pi, Intel Edison and NVIDIA Jetson.
+
+I enrolled in this class to advance my knowledge in embedded computing!
