@@ -1,0 +1,10 @@
+Nutta Homdee - nh4ar
+
+Background:
+	I'm researching in a embedded-sensor-system which are deployable in an out-of-lab environment.
+		- Using Beglebone Black (microcomputer developement platform, running Linux).
+		- Using python for sensor and data processing.
+		
+Interests and expectation:
+	- How to efficiently manage threads and processes.
+	- real-time operations.

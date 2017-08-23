@@ -1,0 +1,3 @@
+Nathan Koch nk5s
+I have taken Intro to Embedded Systems and Computer Architecture. We used C and the MSP430 in the former and VHDL in the latter.
+I am interested in embedded systems for aerospace applications, especially long-term missions or permanent orbital platforms.

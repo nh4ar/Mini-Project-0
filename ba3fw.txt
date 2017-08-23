@@ -1,0 +1,14 @@
+Name: Bulbul Ahmed
+ID: ba3fw
+
+In my undergraduate studies, I designed a microcontroller based smart room control  
+system. The system turns on the desired electric device based on the entrance of  
+someone inside the room. On the other side, if there is nobody inside the room, the  
+desired devices automatically get turned off. I used ATMEGA32 microcontroller and the  
+program was written in C.
+
+In my MS I took a computer architecture course. I am familiar with C/C++, python and  
+linux environment.
+
+I would like to get hands on experience in doing project on embedded system and I also  
+like to extend my research in this area.
