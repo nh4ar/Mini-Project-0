@@ -1,0 +1,5 @@
+Bradley Hallier bth3fb
+
+I've worked a lot with the MSP430 as well as other hobbiest embedded boards. C, C++, Node.js, LabVIEW.
+
+I enjoy using microcontrollers in my electronics projects and hope to get more experience to build off what I learned in ECE 3430.
