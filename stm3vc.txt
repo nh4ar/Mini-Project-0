@@ -1,0 +1,3 @@
+Seth Morris (stm3vc)
+Completed Intro to Embedded, doing CpE capstone. I've worked on embedded systems for trains, rockets, UUVs, and will be working on one for a satellite this year.
+I like to build practical, multi-disciplinary engineering projects that have economic viability. I expect to learn about how to program embedded systems in order to pursue those interests.
