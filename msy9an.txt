@@ -1,0 +1,7 @@
+Mohammad Samin Yasar
+msy9an
+
+I took undergraduate courses in Microprocessor and one in Digital Systems Designs. My programming knowledge is basically in Assembly language, Python and Java. I worked on undergraduate projects using the Arduino micro controller.  My projects include line follower with obstacle avoidance and designing a system to display alphabets using varying sizes of bubbles. 
+My interests include Machine Learning and dependable systems.
+
+I expect to have a good foundation in embedded systems and their applications and an improved grasp in low level programming.
