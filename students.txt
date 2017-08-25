@@ -1,4 +1,5 @@
 YOUR NAME, YOUR UVA ID, LINK TO YOUR NEW REPOSITORY
+Abu Hasnat Mohammad Rubaiyat, ar3fx, https://github.com/hrubaiyat/Mini-Project-0
 Sile Shu,ss5de,https://github.com/novigrads/Mini-Project-0
 Nathan Koch,nk5s,https://github.com/nathan-just-nathan/Mini-Project-0
 Keziah Knopp, kk6du, https://github.com/kk6du/Mini-Project-0
@@ -17,5 +18,9 @@ Ana Nora Evans,ans5k,https://github.com/ananevans/Mini-Project-0
 Varundev Sukhil, vss8sm, https://github.com/varundevsukhil/Mini-Project-0
 Nutta Homdee, nh4ar, https://github.com/nh4ar/Mini-Project-0
 Bradley Hallier, bth3fb, https://github.com/bhallier/Mini-Project-0
+Seth Morris, stm3vc, https://github.com/sethtmorris/Mini-Project-1
+Mustafa Hotaki, mkh3cf, https://github.com/Burzum-ishi/Mini-Project-0
+Seyed Ahmad Mansouri, sm2xv, https://github.com/mansouriahmad/Mini-Project-0
 Daniel Truesdell, dst4b, https://github.com/DanielSTruesdell/Mini-Project-0
 Yongming Qin, yq9vc, https://github.com/yongming-qin/Mini-Project-0
+Mohammad Samin Yasar, msy9an,https://github.com/MohammadYasar/Mini-Project-0
