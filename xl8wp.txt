@@ -1,0 +1,6 @@
+My name is Yang and my uva ID is xl8wp. 
+I learned microcontroller in undergrad university. 
+I have experience working on Arduino and Raspberry Pi.
+I am good at using c and python.
+I am interested in rbotics which is the combination of embedded system and automation control.
+I would love to learn more in this class and have more handson experiences.
