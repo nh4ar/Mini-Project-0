@@ -1,0 +1,3 @@
+Yongming Qin yq9vc
+I took courses of Computer Organization and Design, Cyber Physical Systems, Computation as a Research Tool, Parallel Computing last term. I'm familiar with Python, C, VHDL, Shell Script, Matlab. Projects I've taken part in are about automated guided vehicles, mechanical design, DSP, cloud control systems, teleoperation systems.
+I like swimming, ping-pong. This course relates to what I have learnt last term and I expect to have a deeper understanding of some notions by learning in detail about them and having  more practical experience.
