@@ -1,0 +1,5 @@
+Brian Morris bjm3jh
+
+I have been programing microcontrollers since I was in hight school.  I've done several hobby projects on Arduinos since then, and I course have experience with the MSP430 from Intro to Imbedded Systems.  I am most comfortable programming in C/C++, and this is my first time useing Git for version control.
+
+In this class, I hope to learn more about coding in assembly and how to work in teams using Git.  
