@@ -1,0 +1,5 @@
+Will Ashe
+wa6gz
+I have taken Introduction to Embedded Computing Systems, the Fundamentals courses, Digital Signal Processing, and other software classes, in a variety of languages including Python, C, and C++. I am also studying music and work in the Architecture School's Fabricaion Lab, and I have worked on software and hardware projects in each on platforms like the Raspberry Pi, Arduino family, and JUCE Plugin Framework. 
+
+I'm very interested in CPS and IoT, and have recently gotten interested in the maker movements and designing my own embedded systems. In addition, I'm pursuing a capstone project that would require integration of a variety of sensors and processors into a robust embedded system. This class would give me more experience as I attempt other endeavors!

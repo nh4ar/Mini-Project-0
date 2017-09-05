@@ -1,0 +1,3 @@
+Seyed Ahmad Mansouri, sm2xv
+I have worked with avr microcontrollers by which I have designed some data loggers. Also, I have passed "microprocessor" course which in our university it was about microcontrollers. The programming languages: C and assembly.
+I would like to level up my knowledge in design methods, new technologies and tools specially in health applications. Also, improving my skills in designing complex embedded systems would provide me with a lot of opportunities as a computer engineering.
